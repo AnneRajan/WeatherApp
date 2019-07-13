@@ -1,1 +1,1 @@
-# Weather
+Anne's Weather App is a web based application that allows users to search for current weather information as well as weather forecast of different cities around the world. Users can search for weather information by city name. Anne's Weather App uses openweathermap API which is found at www.openweathermap.org.
